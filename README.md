@@ -1,2 +1,2 @@
 # PoliticalCompass
-lib right based 🏗
+Open source JSwing software for creating Political Compass memes.
